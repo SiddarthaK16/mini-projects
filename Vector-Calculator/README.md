@@ -1,5 +1,5 @@
 # Vector-Calculator
-Vector Calculator built in C — supports common vector operations (addition, subtraction, dot product, etc.) with a simple console interface.
+Vector Calculator built in C and python — supports common vector operations (addition, subtraction, dot product, etc.) with a simple console interface.
 
 ## What It Can Do
 -  **Add vectors** (because teamwork makes the dream work)  
