@@ -31,7 +31,12 @@ Classic **Rock-Paper-Scissors game** implemented in C and Python.
 
 ---
 
-more as i learn.....
+### 4. **Number guessing Game in Python**
+A simple **number guessing game** written in Python.  
+- Users try to guess a randomly generated number.  
+- Shows how to work with loops, conditionals, and input/output in C.  
+**Folder:** `number_guessing_game.py`
+
 
 ---
 
